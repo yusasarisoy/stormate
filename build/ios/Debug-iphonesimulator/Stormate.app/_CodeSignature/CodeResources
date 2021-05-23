@@ -110,7 +110,7 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		DPRzA0UCL2CWGUyPbvrVpOueOzQ=
+		0lDMDnKOJMJUFclJqLHmM8QFJCw=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		Ea+xW2WzyWnYG36eNo04SWcVO9E=
+		szcEOt/M/YpSDKYkg/F1J6IAgOI=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		8Qj0r2E0A/oSrC/hNYB76kGyoz0=
+		8sfhhdFqLOrx7sVRESMwSSxSarQ=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -130,11 +130,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		Cu2Pfi0aeDpLQNJgOouFvQx9qk8=
+		mtZflnSAzFtLH5j4obS22cYARsM=
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		tSaLXDrbhAVbsuyoMvQ9+AN7dtI=
+		IWWiEjnwel8Cpjl5dK72ztmHfWA=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		IJPkJMBX5fIWwch9DuTV4C/CWzk=
+		FrnTwJxIOVFuLXCmwE553jiXGJM=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES</key>
 		<data>
-		nqAWONelQdzA9tKwZD0MiQ23UqI=
+		8dGfD8t3UuLDEUJoXsWfS3MUvTE=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		GNOG09WzXXogYxEgt9dj67gShEg=
+		Q4VN+6eqn9U6PJmBBbxIAPqd5PY=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -191,6 +191,18 @@
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<data>
 		GQZCpXMybn3RCh1MXi5WGSJg97k=
+		</data>
+		<key>Frameworks/geolocator.framework/Info.plist</key>
+		<data>
+		iHNB9jehbNydjg1GMpOtjXbI08A=
+		</data>
+		<key>Frameworks/geolocator.framework/_CodeSignature/CodeResources</key>
+		<data>
+		EHdkZOgkrO24S3DLWUnYjCE9N6g=
+		</data>
+		<key>Frameworks/geolocator.framework/geolocator</key>
+		<data>
+		Z6rbxWmJbsKdE0HLsdh4a/wRAkU=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
@@ -250,7 +262,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DAlZGWUcg7+3IkAuUzMgOkcgr5c=
+		05txpcKoNV+aTsamJhykzSU3oMk=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -549,11 +561,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DPRzA0UCL2CWGUyPbvrVpOueOzQ=
+			0lDMDnKOJMJUFclJqLHmM8QFJCw=
 			</data>
 			<key>hash2</key>
 			<data>
-			heAiFDQxphtu8r42tB8CTmZva8UrrFCz3c3MjTxVo1A=
+			X47mSZMaKmuAJ5xMpa6Ui5eGxJNlFg/nicBv47yulHw=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -571,22 +583,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ea+xW2WzyWnYG36eNo04SWcVO9E=
+			szcEOt/M/YpSDKYkg/F1J6IAgOI=
 			</data>
 			<key>hash2</key>
 			<data>
-			6a6SfqZa7kBl26FLweHkl/YCOnvFiAs505aGFXzLApM=
+			Ay5ZQDqOvVW66cqLa0ySJ1+HkiPp2AULPQTkWbE7QiI=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8Qj0r2E0A/oSrC/hNYB76kGyoz0=
+			8sfhhdFqLOrx7sVRESMwSSxSarQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			aRMHahQPkMMmbtVjezpTv7GRJjf1C0HfReT0yJbh/xA=
+			/gVaP+Et8BQUscLDt/xSAI9JPIKG+yXRs6VOlvc4qR4=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -604,22 +616,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Cu2Pfi0aeDpLQNJgOouFvQx9qk8=
+			mtZflnSAzFtLH5j4obS22cYARsM=
 			</data>
 			<key>hash2</key>
 			<data>
-			g2K5DbOjn53pwVbF0Czu4/fpkMnbYubKYS43Pc6h23A=
+			vXE9Oc/a2vooMvcS5RyNVYf6eOLS6hi26WCSNReWNgE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/App</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tSaLXDrbhAVbsuyoMvQ9+AN7dtI=
+			IWWiEjnwel8Cpjl5dK72ztmHfWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			GTzpVjvL9XViDVEdZFY85toS8IW0sckrYCwJEhEJM9w=
+			KQcZEenpkaP0PfLRGmC00nXPPaUfiYz3ureFqaXT3TQ=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -637,11 +649,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IJPkJMBX5fIWwch9DuTV4C/CWzk=
+			FrnTwJxIOVFuLXCmwE553jiXGJM=
 			</data>
 			<key>hash2</key>
 			<data>
-			vgGb9r8lQy/X2YiJsvGAN1rwh8pG0dGJakBhOR10QQI=
+			AbMFPrSachMOkuA7b0MZbWQH8ws1NQCuxTMGBnDcnm8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -670,11 +682,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nqAWONelQdzA9tKwZD0MiQ23UqI=
+			8dGfD8t3UuLDEUJoXsWfS3MUvTE=
 			</data>
 			<key>hash2</key>
 			<data>
-			LX+62FEAQOTlIMC0tgOQPo6Fg3AYSDvMnTHe2vUMHGo=
+			gFNE+TFKmekBG8jYbbr9UktXwa9dqm/J1Ujwt4tRTRc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -703,11 +715,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GNOG09WzXXogYxEgt9dj67gShEg=
+			Q4VN+6eqn9U6PJmBBbxIAPqd5PY=
 			</data>
 			<key>hash2</key>
 			<data>
-			AD2nM7BzFewbuGsS5agJqMj0xi7xuKKjCncY4RrlqFY=
+			v3Uh01P1EuvDkrdaa3qcuUAuxtoHUSHjkJYa51NYpsc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -774,6 +786,39 @@
 			<key>hash2</key>
 			<data>
 			PxmoJrR/h+ORdYBLNxblG7h3l/244/4/McWAKWZ0TDY=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iHNB9jehbNydjg1GMpOtjXbI08A=
+			</data>
+			<key>hash2</key>
+			<data>
+			+d7jOVKTVkDMcB23ilkRSiacnIrEsMUVD9xaFETDnmM=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EHdkZOgkrO24S3DLWUnYjCE9N6g=
+			</data>
+			<key>hash2</key>
+			<data>
+			1e2CEIDYkSGXXmsG3QB7Lhw3kARqwZvvde4TaAc4Exk=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator.framework/geolocator</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z6rbxWmJbsKdE0HLsdh4a/wRAkU=
+			</data>
+			<key>hash2</key>
+			<data>
+			rq5OIOOpBAEIYZb/BEldaa4pFmLTpRVg/1EIExZikFg=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
